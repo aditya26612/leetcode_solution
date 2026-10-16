@@ -1,0 +1,14 @@
+        // --------------------------------
+        Node node = new Node();
+
+        node.key = key;
+        node.value = value;
+
+        // New node becomes most recently used
+        insertAtFirst(node);
+        // CASE 3: Create new Node
+        // --------------------------------
+
+        }
+            remove(lru);
+            // Remove from linked list
