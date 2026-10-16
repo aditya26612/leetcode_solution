@@ -1,4 +1,4 @@
-// 8 ms | 44.9 MB
+// 7 ms | 44.9 MB
 
 class Solution {
 
@@ -7,9 +7,9 @@ class Solution {
              List<List<Integer>> ans){
 
         if(rem==0){
-            if(!ans.contains(current)){
+            // if(!ans.contains(current)){ // not need as we are skipping duplicate by using continue
             ans.add(new ArrayList<>(current));
-            }
+            // }
             return;
         }
         else if(rem<0){
