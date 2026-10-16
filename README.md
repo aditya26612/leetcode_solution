@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 7 (Easy: 1, Medium: 5, Hard: 0)
+Solved: 8 (Easy: 1, Medium: 6, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -12,4 +12,5 @@ Solved: 7 (Easy: 1, Medium: 5, Hard: 0)
 |  | [lru-cache](lru-cache/) | Unknown | 2026-10-16 |
 | 46 | [Permutations](46-permutations/) | Medium | 2026-10-16 |
 | 78 | [Subsets](78-subsets/) | Medium | 2026-10-16 |
+| 40 | [Combination Sum II](40-combination-sum-ii/) | Medium | 2026-10-16 |
 <!-- LEETHUB:TABLE:END -->
