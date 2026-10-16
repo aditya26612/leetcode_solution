@@ -1,13 +1,12 @@
-// 2 ms | 45.4 MB
+// 2 ms | 45.3 MB
 class Solution {
 
 
     void dfs(int[] candidates,int rem,int startIndex,List<Integer> current,
-             List<List<Integer>> ans,int target){
+             List<List<Integer>> ans){
 
         if(rem==0){
             ans.add(new ArrayList<>(current));
-            rem=target;
             return;
         }
         else if(rem<0){
@@ -19,7 +18,7 @@ class Solution {
 
             current.add(candidates[i]);
 
-            dfs(candidates,rem,i,current,ans,target);
+            dfs(candidates,rem,i,current,ans);
 
             rem+=candidates[i];
 
@@ -34,7 +33,7 @@ class Solution {
         List<List<Integer>> ans = new ArrayList<>();
         
 
-        dfs(candidates,target,0,new ArrayList<>(),ans,target);
+        dfs(candidates,target,0,new ArrayList<>(),ans);
 
         return ans;
 
