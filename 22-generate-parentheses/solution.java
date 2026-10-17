@@ -1,34 +1,68 @@
-// 2 ms | 44 MB
+// 1 ms | 43.9 MB
 class Solution {
-    public List<String> generateParenthesis(int n) {
-        List<String> result = new ArrayList<>();
 
-        backtrack(result, "", 0, 0, n);
+    // private void dfs(List<String> ans,StringBuffer current,int open,int close,int n) {
+        
+    //     if(open==n && close==n){
+    //         ans.add(current.toString());
+    //         return;
+    //     }
 
-        return result;
-    }
+    //     if(open < n){
+    //         current.append('(');
+    //         open++;
 
-    private void backtrack(
-        List<String> result,
-        String current,
-        int open,
-        int close,
-        int n
-    ) {
-        // We have used all n pairs
-        if (open == n && close == n) {
-            result.add(current);
+    //         dfs(ans,current,open,close,n);
+
+            
+    //         current.deleteCharAt(current.length() - 1);
+    //         open--;
+    //     }
+        
+
+    //     if(close < open){
+    //         current.append(')');
+    //         close++;
+
+    //         dfs(ans,current,open,close,n);
+
+    //         current.deleteCharAt(current.length() - 1);
+    //         close--;
+    //     }
+    //     return ;
+    // }
+
+
+    private void dfs(List<String> ans,StringBuffer current,int open,int close,int n) {
+        
+        if(open==n && close==n){
+            ans.add(current.toString());
             return;
         }
 
-        // We can still add an opening bracket
-        if (open < n) {
-            backtrack(result, current + "(", open + 1, close, n);
+        if(open < n){
+            current.append('(');
+            dfs(ans,current,open+1,close,n);         
+            current.deleteCharAt(current.length() - 1);
         }
+        
 
-        // We can add ')' only if there is an unmatched '('
-        if (close < open) {
-            backtrack(result, current + ")", open, close + 1, n);
+        if(close < open){
+            current.append(')');
+             dfs(ans,current,open,close+1,n);
+            current.deleteCharAt(current.length() - 1);
         }
+        return ;
     }
+
+    public List<String> generateParenthesis(int n) {
+        
+        List<String> ans=new ArrayList<>();
+
+        dfs(ans,new StringBuffer(),0,0,n);
+
+            return ans;
+    }
+
+    
 }
