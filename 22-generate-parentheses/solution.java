@@ -1,4 +1,4 @@
-// 1 ms | 43.9 MB
+// 1 ms | 44.2 MB
 class Solution {
 
     // private void dfs(List<String> ans,StringBuffer current,int open,int close,int n) {
@@ -52,7 +52,6 @@ class Solution {
              dfs(ans,current,open,close+1,n);
             current.deleteCharAt(current.length() - 1);
         }
-        return ;
     }
 
     public List<String> generateParenthesis(int n) {
