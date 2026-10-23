@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 10 (Easy: 2, Medium: 7, Hard: 0)
+Solved: 11 (Easy: 3, Medium: 7, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -11,8 +11,9 @@ Solved: 10 (Easy: 2, Medium: 7, Hard: 0)
 | 77 | [Combinations](77-combinations/) | Medium | 2026-10-23 |
 | 22 | [Generate Parentheses](22-generate-parentheses/) | Medium | 2026-10-23 |
 |  | [lru-cache](lru-cache/) | Unknown | 2026-10-23 |
+| 191 | [Number of 1 Bits](191-number-of-1-bits/) | Easy | 2026-10-23 |
 | 46 | [Permutations](46-permutations/) | Medium | 2026-10-23 |
 | 78 | [Subsets](78-subsets/) | Medium | 2026-10-23 |
 | 79 | [Word Search](79-word-search/) | Medium | 2026-10-23 |
-| 191 | [Number of 1 Bits](191-number-of-1-bits/) | Easy | 2026-10-23 |
+| 231 | [Power of Two](231-power-of-two/) | Easy | 2026-10-23 |
 <!-- LEETHUB:TABLE:END -->
