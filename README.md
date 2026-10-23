@@ -4,7 +4,7 @@
 Solved: 9 (Easy: 1, Medium: 7, Hard: 0)
 
 | # | Problem | Difficulty |
-|---|---|---|---|
+|---|---|---|
 | 1920 | [Build Array from Permutation](1920-build-array-from-permutation/) | Easy |
 | 39 | [Combination Sum](39-combination-sum/) | Medium |
 | 40 | [Combination Sum II](40-combination-sum-ii/) | Medium |
