@@ -9,6 +9,7 @@ Solved: 14 (Easy: 6, Medium: 7, Hard: 0)
 | 39 | [Combination Sum](39-combination-sum/) | Medium | 2026-10-23 |
 | 40 | [Combination Sum II](40-combination-sum-ii/) | Medium | 2026-10-23 |
 | 77 | [Combinations](77-combinations/) | Medium | 2026-10-23 |
+| 338 | [Counting Bits](338-counting-bits/) | Easy | 2026-10-23 |
 | 22 | [Generate Parentheses](22-generate-parentheses/) | Medium | 2026-10-23 |
 |  | [lru-cache](lru-cache/) | Unknown | 2026-10-23 |
 | 268 | [Missing Number](268-missing-number/) | Easy | 2026-10-23 |
@@ -18,5 +19,4 @@ Solved: 14 (Easy: 6, Medium: 7, Hard: 0)
 | 136 | [Single Number](136-single-number/) | Easy | 2026-10-23 |
 | 78 | [Subsets](78-subsets/) | Medium | 2026-10-23 |
 | 79 | [Word Search](79-word-search/) | Medium | 2026-10-23 |
-| 338 | [Counting Bits](338-counting-bits/) | Easy | 2026-10-23 |
 <!-- LEETHUB:TABLE:END -->
