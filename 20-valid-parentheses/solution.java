@@ -1,4 +1,4 @@
-// 3 ms | 42.9 MB
+// 4 ms | 42.7 MB
 class Solution {
 
     
@@ -17,7 +17,7 @@ class Solution {
         }
 
         else {
-            if(stack.isEmpty()) stack.push(temp);
+            if(stack.isEmpty()) return false;
 
             else if(stack.peek().equals('(') && temp==')' 
             || stack.peek().equals('[') && temp==']' 
@@ -26,7 +26,7 @@ class Solution {
                 stack.pop();
             }
 
-            else stack.push(temp);
+            else return false;
         }
     }
 
