@@ -18,6 +18,6 @@ Solved: 15 (Easy: 7, Medium: 7, Hard: 0)
 | 231 | [Power of Two](231-power-of-two/) | Easy | 2026-10-25 |
 | 136 | [Single Number](136-single-number/) | Easy | 2026-10-25 |
 | 78 | [Subsets](78-subsets/) | Medium | 2026-10-25 |
-| 79 | [Word Search](79-word-search/) | Medium | 2026-10-25 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-25 |
+| 79 | [Word Search](79-word-search/) | Medium | 2026-10-25 |
 <!-- LEETHUB:TABLE:END -->
