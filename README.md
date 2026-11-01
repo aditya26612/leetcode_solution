@@ -1,11 +1,12 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 23 (Easy: 9, Medium: 12, Hard: 1)
+Solved: 24 (Easy: 9, Medium: 13, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
 | 121 | [Best Time to Buy and Sell Stock](121-best-time-to-buy-and-sell-stock/) | Easy | 2026-11-01 |
+| 122 | [Best Time to Buy and Sell Stock II](122-best-time-to-buy-and-sell-stock-ii/) | Medium | 2026-11-01 |
 | 1920 | [Build Array from Permutation](1920-build-array-from-permutation/) | Easy | 2026-11-01 |
 | 39 | [Combination Sum](39-combination-sum/) | Medium | 2026-11-01 |
 | 40 | [Combination Sum II](40-combination-sum-ii/) | Medium | 2026-11-01 |
@@ -27,5 +28,5 @@ Solved: 23 (Easy: 9, Medium: 12, Hard: 1)
 | 78 | [Subsets](78-subsets/) | Medium | 2026-11-01 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-11-01 |
 | 79 | [Word Search](79-word-search/) | Medium | 2026-11-01 |
-| 122 | [Best Time to Buy and Sell Stock II](122-best-time-to-buy-and-sell-stock-ii/) | Medium | 2026-11-01 |
+| 134 | [Gas Station](134-gas-station/) | Medium | 2026-11-01 |
 <!-- LEETHUB:TABLE:END -->
