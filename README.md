@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 21 (Easy: 8, Medium: 11, Hard: 1)
+Solved: 22 (Easy: 9, Medium: 11, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -13,6 +13,7 @@ Solved: 21 (Easy: 8, Medium: 11, Hard: 1)
 | 739 | [Daily Temperatures](739-daily-temperatures/) | Medium | 2026-11-01 |
 | 22 | [Generate Parentheses](22-generate-parentheses/) | Medium | 2026-11-01 |
 | 55 | [Jump Game](55-jump-game/) | Medium | 2026-11-01 |
+| 45 | [Jump Game II](45-jump-game-ii/) | Medium | 2026-11-01 |
 | 84 | [Largest Rectangle in Histogram](84-largest-rectangle-in-histogram/) | Hard | 2026-11-01 |
 |  | [lru-cache](lru-cache/) | Unknown | 2026-11-01 |
 | 155 | [Min Stack](155-min-stack/) | Medium | 2026-11-01 |
@@ -25,5 +26,5 @@ Solved: 21 (Easy: 8, Medium: 11, Hard: 1)
 | 78 | [Subsets](78-subsets/) | Medium | 2026-11-01 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-11-01 |
 | 79 | [Word Search](79-word-search/) | Medium | 2026-11-01 |
-| 45 | [Jump Game II](45-jump-game-ii/) | Medium | 2026-11-01 |
+| 121 | [Best Time to Buy and Sell Stock](121-best-time-to-buy-and-sell-stock/) | Easy | 2026-11-01 |
 <!-- LEETHUB:TABLE:END -->
