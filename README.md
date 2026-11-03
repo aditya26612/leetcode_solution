@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 26 (Easy: 9, Medium: 15, Hard: 1)
+Solved: 27 (Easy: 9, Medium: 15, Hard: 2)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -18,6 +18,7 @@ Solved: 26 (Easy: 9, Medium: 15, Hard: 1)
 | 55 | [Jump Game](55-jump-game/) | Medium | 2026-11-03 |
 | 45 | [Jump Game II](45-jump-game-ii/) | Medium | 2026-11-03 |
 | 84 | [Largest Rectangle in Histogram](84-largest-rectangle-in-histogram/) | Hard | 2026-11-03 |
+| 236 | [Lowest Common Ancestor of a Binary Tree](236-lowest-common-ancestor-of-a-binary-tree/) | Medium | 2026-11-03 |
 |  | [lru-cache](lru-cache/) | Unknown | 2026-11-03 |
 | 155 | [Min Stack](155-min-stack/) | Medium | 2026-11-03 |
 | 268 | [Missing Number](268-missing-number/) | Easy | 2026-11-03 |
@@ -30,5 +31,5 @@ Solved: 26 (Easy: 9, Medium: 15, Hard: 1)
 | 621 | [Task Scheduler](621-task-scheduler/) | Medium | 2026-11-03 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-11-03 |
 | 79 | [Word Search](79-word-search/) | Medium | 2026-11-03 |
-| 236 | [Lowest Common Ancestor of a Binary Tree](236-lowest-common-ancestor-of-a-binary-tree/) | Medium | 2026-11-03 |
+| 297 | [Serialize and Deserialize Binary Tree](297-serialize-and-deserialize-binary-tree/) | Hard | 2026-11-03 |
 <!-- LEETHUB:TABLE:END -->
