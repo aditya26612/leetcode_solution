@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 27 (Easy: 9, Medium: 15, Hard: 2)
+Solved: 28 (Easy: 9, Medium: 16, Hard: 2)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -26,10 +26,11 @@ Solved: 27 (Easy: 9, Medium: 15, Hard: 2)
 | 191 | [Number of 1 Bits](191-number-of-1-bits/) | Easy | 2026-11-03 |
 | 46 | [Permutations](46-permutations/) | Medium | 2026-11-03 |
 | 231 | [Power of Two](231-power-of-two/) | Easy | 2026-11-03 |
+| 297 | [Serialize and Deserialize Binary Tree](297-serialize-and-deserialize-binary-tree/) | Hard | 2026-11-03 |
 | 136 | [Single Number](136-single-number/) | Easy | 2026-11-03 |
 | 78 | [Subsets](78-subsets/) | Medium | 2026-11-03 |
 | 621 | [Task Scheduler](621-task-scheduler/) | Medium | 2026-11-03 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-11-03 |
 | 79 | [Word Search](79-word-search/) | Medium | 2026-11-03 |
-| 297 | [Serialize and Deserialize Binary Tree](297-serialize-and-deserialize-binary-tree/) | Hard | 2026-11-03 |
+| 208 | [Implement Trie (Prefix Tree)](208-implement-trie-prefix-tree/) | Medium | 2026-11-03 |
 <!-- LEETHUB:TABLE:END -->
